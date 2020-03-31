@@ -1,0 +1,7 @@
+spring:
+  profiles:
+    active: waitwind
+  #active: dev   #开发坏境
+   # active: test   #测试坏境
+#    active: info
+
